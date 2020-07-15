@@ -1,2 +1,4 @@
-Annotation/
-__pycache__/
+/Annotation/
+/__pycache__/
+PedMask/*
+PNGImages/*
